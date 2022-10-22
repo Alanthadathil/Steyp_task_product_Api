@@ -1,6 +1,6 @@
 # <h1>Steyp Api Build Project</h1>
 
-<h3>Product List Api : http://127.0.0.1:8000/api/v1/products/</h3>
+<h6>Product List Api : http://127.0.0.1:8000/api/v1/products/</h6>
 
 Single Product Api : http://127.0.0.1:8000/api/v1/products/view/1
 
